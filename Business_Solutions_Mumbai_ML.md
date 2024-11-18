@@ -5,7 +5,7 @@ This project leverages Machine Learning to analyze and predict property prices i
 ---
 
 ## 🚀 Project Overview
-![Project Pipeline]()
+![Project Pipeline](https://github.com/tushar384/Mumbai_Properties_With_Solving_Real_Business_Problem/blob/main/Mubai%20Propertie%20Img.jpg?raw=true)
 
 Mumbai's real estate market is complex and competitive. This project tackles key business challenges by:
 - 📊 Analyzing property data.
