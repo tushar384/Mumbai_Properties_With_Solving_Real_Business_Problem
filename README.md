@@ -1,5 +1,5 @@
 # 🏠 **Mumbai House Project Using SQL**
-
+![Project Pipeline](https://github.com/tushar384/Mumbai_Properties_With_Solving_Real_Business_Problem/blob/main/Mubai%20Propertie%20Img.jpg?raw=true)
 ## ✨ **Project Overview**
 This project explores the **Mumbai housing market** using PostgreSQL. The aim is to analyze residential property data to uncover actionable insights for real estate stakeholders, including buyers, sellers, and investors. The project addresses real-world business questions about property trends, pricing, and market distribution in one of India's most dynamic property markets.
 
@@ -80,7 +80,7 @@ GROUP BY furnishing_status;
 ## 📧 Contact
 - For queries or suggestions, please reach out via:
 -📩 Email: chavanswapnil0990@gmail.com
--🔗 LinkedIn: [https://github.com/tushar384/]
+-🔗 GitHub: [https://github.com/tushar384/Mumbai_Properties_With_Solving_Real_Business_Problem]
 ----
 
 ## 📜 License
